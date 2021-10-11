@@ -79,7 +79,7 @@ document.getElementById("zegar").innerHTML = dzien+" / "+miesiac+" / "+rok+" | "
 setTimeout("odliczanie()",1000);
 
  
-}​​​​​​​​​​​​​​​​​
+}
 
  
 </script>
